@@ -1,0 +1,39 @@
+{
+  "releases": [
+    {
+      "version_name": "0.0.22",
+      "version_code": 22,
+      "apk_rel_path": "packages/weidu-0.0.22-arm64.apk",
+      "size_bytes": 36946732,
+      "blake3": "77f3ac1080957766f41d17550254c24f843d1216d65cd80134b000e313ee1d61"
+    },
+    {
+      "version_name": "0.0.21",
+      "version_code": 21,
+      "apk_rel_path": "packages/weidu-0.0.21-arm64.apk",
+      "size_bytes": 36881208,
+      "blake3": "fbebefad9bed9cfba4d1c5cbbbdc9e2f43954ec1f43e357e198b6786685f3208"
+    },
+    {
+      "version_name": "0.0.20",
+      "version_code": 20,
+      "apk_rel_path": "packages/weidu-0.0.20-arm64.apk",
+      "size_bytes": 36881193,
+      "blake3": "95b61c64a4c8b10c26db0a3ede956c00d52249e1a470eb4e1b3a988a5ca3323c"
+    },
+    {
+      "version_name": "0.0.19",
+      "version_code": 19,
+      "apk_rel_path": "packages/weidu-0.0.19-arm64.apk",
+      "size_bytes": 36635440,
+      "blake3": "81cc90db55f85deb6c5dc3ff465da12185de509177e3e7348bee927bddf2da82"
+    },
+    {
+      "version_name": "0.0.18",
+      "version_code": 18,
+      "apk_rel_path": "packages/weidu-0.0.18-arm64.apk",
+      "size_bytes": 36635448,
+      "blake3": "c81945381f2f6ca034f96f6cc3355025c75130e43004b27cb4fac9b3104d953b"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "deltas": [
+    {
+      "from_blake3": "fbebefad9bed9cfba4d1c5cbbbdc9e2f43954ec1f43e357e198b6786685f3208",
+      "from_version_code": 21,
+      "from_version_name": "0.0.21",
+      "patch_blake3": "d1ac1851bc76807d10cfa42c18f39aec3df2bf1ba30ca176d9fb8b724833c47a",
+      "patch_size_bytes": 2692994,
+      "urls": [
+        "https://raw.githubusercontent.com/Alpenl/weidu-releases/dist/patches/weidu-0.0.21-to-0.0.22-arm64.wdpatch",
+        "https://github.com/Alpenl/weidu-releases/raw/refs/heads/dist/patches/weidu-0.0.21-to-0.0.22-arm64.wdpatch"
+      ]
+    },
+    {
+      "from_blake3": "95b61c64a4c8b10c26db0a3ede956c00d52249e1a470eb4e1b3a988a5ca3323c",
+      "from_version_code": 20,
+      "from_version_name": "0.0.20",
+      "patch_blake3": "af542132f3b1a64211a77923a9e6731271518b7c7b2f80920e401d64ad971e03",
+      "patch_size_bytes": 2769403,
+      "urls": [
+        "https://raw.githubusercontent.com/Alpenl/weidu-releases/dist/patches/weidu-0.0.20-to-0.0.22-arm64.wdpatch",
+        "https://github.com/Alpenl/weidu-releases/raw/refs/heads/dist/patches/weidu-0.0.20-to-0.0.22-arm64.wdpatch"
+      ]
+    },
+    {
+      "from_blake3": "81cc90db55f85deb6c5dc3ff465da12185de509177e3e7348bee927bddf2da82",
+      "from_version_code": 19,
+      "from_version_name": "0.0.19",
+      "patch_blake3": "c551cf2da7d61310848b1e20cc21c0df86e91cda01afb13bee45946c14a249b2",
+      "patch_size_bytes": 3534745,
+      "urls": [
+        "https://raw.githubusercontent.com/Alpenl/weidu-releases/dist/patches/weidu-0.0.19-to-0.0.22-arm64.wdpatch",
+        "https://github.com/Alpenl/weidu-releases/raw/refs/heads/dist/patches/weidu-0.0.19-to-0.0.22-arm64.wdpatch"
+      ]
+    },
+    {
+      "from_blake3": "c81945381f2f6ca034f96f6cc3355025c75130e43004b27cb4fac9b3104d953b",
+      "from_version_code": 18,
+      "from_version_name": "0.0.18",
+      "patch_blake3": "e3e6ca2a3ed29565918a623cdbffbf19e6a266e3fcfbb620ddfc87d41b4a3c81",
+      "patch_size_bytes": 3580450,
+      "urls": [
+        "https://raw.githubusercontent.com/Alpenl/weidu-releases/dist/patches/weidu-0.0.18-to-0.0.22-arm64.wdpatch",
+        "https://github.com/Alpenl/weidu-releases/raw/refs/heads/dist/patches/weidu-0.0.18-to-0.0.22-arm64.wdpatch"
+      ]
+    }
+  ],
+  "force_update": false,
+  "full": {
+    "abi": "arm64-v8a",
+    "blake3": "77f3ac1080957766f41d17550254c24f843d1216d65cd80134b000e313ee1d61",
+    "size_bytes": 36946732,
+    "urls": [
+      "https://raw.githubusercontent.com/Alpenl/weidu-releases/dist/packages/weidu-0.0.22-arm64.apk",
+      "https://github.com/Alpenl/weidu-releases/raw/refs/heads/dist/packages/weidu-0.0.22-arm64.apk"
+    ]
+  },
+  "min_supported_code": 1,
+  "public_key_ed25519": "1805092a41aa7c065cc5cfc0e6c0bb6efeca74d6a5da0b2ef372239c7fc63ee3",
+  "published_at": "2026-11-28T04:07:09.831969Z",
+  "release_notes": "· feat(reader,typeset): 全维度 1:1 对齐原版断行富文本、字重度量、四套色板与设置面板",
+  "schema_version": 1,
+  "signature_ed25519": "1fb34435cbc8d61a040d911b25006740e40412af55b726ea79570a2e88bea98a317681c910483e40ba4b83b4cd3443babe732146a9e2a723ec1f3331cce1cd0d",
+  "version_code": 22,
+  "version_name": "0.0.22"
+}
